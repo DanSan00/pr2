@@ -1,7 +1,7 @@
 "use strict";
 
-let name = "John";
-let admin = (`${name}`);
+let namee = "John";
+let admin = (`${namee}`);
 
 alert (`Name ${admin}`);
 
@@ -18,9 +18,9 @@ let pi = 3.14;
 
 let r = prompt('Какой радиус у круга');
 
-let num = pi*(r*r);
+let nums = pi*(r*r);
 
-alert(`Радиус ${r}. Площадь ${num}`);
+alert(`Радиус ${r}. Площадь ${nums}`);
 
 
 let fr = prompt('Введите первое число');
